@@ -1,2 +1,2 @@
 # OAK-Page
-Project
+Simple Project 1
